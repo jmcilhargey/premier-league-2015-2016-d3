@@ -1,0 +1,5022 @@
+[
+  {
+    "name": "Manchester United FC",
+    "stats": [
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 3,
+        "goalDiff": 1
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 3,
+        "goalDiff": 1
+      },
+      {
+        "wins": 3,
+        "points": 10,
+        "goals": 6,
+        "goalDiff": 3
+      },
+      {
+        "wins": 4,
+        "points": 13,
+        "goals": 9,
+        "goalDiff": 4
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 12,
+        "goalDiff": 7
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 12,
+        "goalDiff": 4
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 12,
+        "goalDiff": 4
+      },
+      {
+        "wins": 6,
+        "points": 19,
+        "goals": 15,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 20,
+        "goals": 15,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 21,
+        "goals": 15,
+        "goalDiff": 7
+      },
+      {
+        "wins": 7,
+        "points": 24,
+        "goals": 17,
+        "goalDiff": 9
+      },
+      {
+        "wins": 7,
+        "points": 24,
+        "goals": 17,
+        "goalDiff": 9
+      },
+      {
+        "wins": 8,
+        "points": 27,
+        "goals": 19,
+        "goalDiff": 10
+      },
+      {
+        "wins": 8,
+        "points": 28,
+        "goals": 20,
+        "goalDiff": 10
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 20,
+        "goalDiff": 10
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 21,
+        "goalDiff": 9
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 22,
+        "goalDiff": 8
+      },
+      {
+        "wins": 8,
+        "points": 30,
+        "goals": 22,
+        "goalDiff": 6
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 24,
+        "goalDiff": 7
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 27,
+        "goalDiff": 7
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 28,
+        "goalDiff": 8
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 28,
+        "goalDiff": 7
+      },
+      {
+        "wins": 11,
+        "points": 40,
+        "goals": 31,
+        "goalDiff": 10
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 32,
+        "goalDiff": 10
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 33,
+        "goalDiff": 9
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 33,
+        "goalDiff": 9
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": 11
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": 10
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": 10
+      },
+      {
+        "wins": 14,
+        "points": 50,
+        "goals": 38,
+        "goalDiff": 11
+      },
+      {
+        "wins": 14,
+        "points": 50,
+        "goals": 38,
+        "goalDiff": 11
+      },
+      {
+        "wins": 15,
+        "points": 53,
+        "goals": 39,
+        "goalDiff": 12
+      },
+      {
+        "wins": 15,
+        "points": 53,
+        "goals": 39,
+        "goalDiff": 9
+      },
+      {
+        "wins": 17,
+        "points": 59,
+        "goals": 42,
+        "goalDiff": 12
+      },
+      {
+        "wins": 17,
+        "points": 59,
+        "goals": 42,
+        "goalDiff": 12
+      },
+      {
+        "wins": 17,
+        "points": 60,
+        "goals": 43,
+        "goalDiff": 12
+      },
+      {
+        "wins": 18,
+        "points": 63,
+        "goals": 46,
+        "goalDiff": 12
+      },
+      {
+        "wins": 19,
+        "points": 66,
+        "goals": 49,
+        "goalDiff": 14
+      }
+    ]
+  },
+  {
+    "name": "Tottenham Hotspur FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 3,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 3,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 4,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 5,
+        "goalDiff": 1
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 9,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 16,
+        "goalDiff": 8
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 19,
+        "goalDiff": 10
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 20,
+        "goalDiff": 10
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 20,
+        "goalDiff": 10
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 24,
+        "goalDiff": 13
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 24,
+        "goalDiff": 13
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 25,
+        "goalDiff": 13
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 26,
+        "goalDiff": 12
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 28,
+        "goalDiff": 14
+      },
+      {
+        "wins": 9,
+        "points": 35,
+        "goals": 33,
+        "goalDiff": 18
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 34,
+        "goalDiff": 18
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 34,
+        "goalDiff": 17
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 38,
+        "goalDiff": 20
+      },
+      {
+        "wins": 11,
+        "points": 42,
+        "goals": 41,
+        "goalDiff": 22
+      },
+      {
+        "wins": 12,
+        "points": 45,
+        "goals": 44,
+        "goalDiff": 25
+      },
+      {
+        "wins": 13,
+        "points": 48,
+        "goals": 45,
+        "goalDiff": 26
+      },
+      {
+        "wins": 14,
+        "points": 51,
+        "goals": 47,
+        "goalDiff": 27
+      },
+      {
+        "wins": 14,
+        "points": 51,
+        "goals": 47,
+        "goalDiff": 27
+      },
+      {
+        "wins": 15,
+        "points": 54,
+        "goals": 49,
+        "goalDiff": 27
+      },
+      {
+        "wins": 15,
+        "points": 55,
+        "goals": 51,
+        "goalDiff": 27
+      },
+      {
+        "wins": 16,
+        "points": 58,
+        "goals": 53,
+        "goalDiff": 29
+      },
+      {
+        "wins": 17,
+        "points": 61,
+        "goals": 56,
+        "goalDiff": 32
+      },
+      {
+        "wins": 17,
+        "points": 61,
+        "goals": 56,
+        "goalDiff": 32
+      },
+      {
+        "wins": 17,
+        "points": 62,
+        "goals": 57,
+        "goalDiff": 32
+      },
+      {
+        "wins": 18,
+        "points": 65,
+        "goals": 60,
+        "goalDiff": 35
+      },
+      {
+        "wins": 19,
+        "points": 68,
+        "goals": 64,
+        "goalDiff": 39
+      },
+      {
+        "wins": 19,
+        "points": 69,
+        "goals": 65,
+        "goalDiff": 39
+      },
+      {
+        "wins": 19,
+        "points": 70,
+        "goals": 67,
+        "goalDiff": 39
+      },
+      {
+        "wins": 19,
+        "points": 70,
+        "goals": 68,
+        "goalDiff": 38
+      },
+      {
+        "wins": 19,
+        "points": 70,
+        "goals": 69,
+        "goalDiff": 34
+      }
+    ]
+  },
+  {
+    "name": "Everton FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": 3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": 1
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 5,
+        "goalDiff": 1
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 5,
+        "goalDiff": 1
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": 1
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 13,
+        "goalDiff": 0
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 19,
+        "goalDiff": 4
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 20,
+        "goalDiff": 4
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 20,
+        "goalDiff": 4
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 24,
+        "goalDiff": 8
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 27,
+        "goalDiff": 8
+      },
+      {
+        "wins": 5,
+        "points": 22,
+        "goals": 28,
+        "goalDiff": 8
+      },
+      {
+        "wins": 5,
+        "points": 23,
+        "goals": 29,
+        "goalDiff": 8
+      },
+      {
+        "wins": 5,
+        "points": 23,
+        "goals": 31,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 35,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 36,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 28,
+        "goals": 36,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 29,
+        "goals": 39,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 29,
+        "goals": 40,
+        "goalDiff": 6
+      },
+      {
+        "wins": 7,
+        "points": 32,
+        "goals": 43,
+        "goalDiff": 9
+      },
+      {
+        "wins": 8,
+        "points": 35,
+        "goals": 46,
+        "goalDiff": 12
+      },
+      {
+        "wins": 8,
+        "points": 35,
+        "goals": 46,
+        "goalDiff": 11
+      },
+      {
+        "wins": 8,
+        "points": 35,
+        "goals": 46,
+        "goalDiff": 11
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 49,
+        "goalDiff": 13
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 51,
+        "goalDiff": 12
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 51,
+        "goalDiff": 12
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 51,
+        "goalDiff": 10
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 51,
+        "goalDiff": 10
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 51,
+        "goalDiff": 9
+      },
+      {
+        "wins": 9,
+        "points": 40,
+        "goals": 52,
+        "goalDiff": 9
+      },
+      {
+        "wins": 9,
+        "points": 41,
+        "goals": 53,
+        "goalDiff": 5
+      },
+      {
+        "wins": 9,
+        "points": 41,
+        "goals": 53,
+        "goalDiff": 5
+      },
+      {
+        "wins": 10,
+        "points": 44,
+        "goals": 55,
+        "goalDiff": 6
+      },
+      {
+        "wins": 10,
+        "points": 44,
+        "goals": 56,
+        "goalDiff": 1
+      },
+      {
+        "wins": 11,
+        "points": 47,
+        "goals": 59,
+        "goalDiff": 4
+      }
+    ]
+  },
+  {
+    "name": "Watford FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 3,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 5,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 6,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 6,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 6,
+        "goalDiff": -4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 10,
+        "goalDiff": 0
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 11,
+        "goalDiff": -1
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 11,
+        "goalDiff": -1
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 12,
+        "goalDiff": -2
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 15,
+        "goalDiff": -1
+      },
+      {
+        "wins": 6,
+        "points": 22,
+        "goals": 17,
+        "goalDiff": 1
+      },
+      {
+        "wins": 7,
+        "points": 25,
+        "goals": 18,
+        "goalDiff": 2
+      },
+      {
+        "wins": 8,
+        "points": 28,
+        "goals": 21,
+        "goalDiff": 5
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 24,
+        "goalDiff": 4
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 25,
+        "goalDiff": 3
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 25,
+        "goalDiff": 1
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 25,
+        "goalDiff": 0
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 27,
+        "goalDiff": 1
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 27,
+        "goalDiff": 1
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 27,
+        "goalDiff": 0
+      },
+      {
+        "wins": 10,
+        "points": 36,
+        "goals": 29,
+        "goalDiff": 1
+      },
+      {
+        "wins": 10,
+        "points": 36,
+        "goals": 29,
+        "goalDiff": 1
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 29,
+        "goalDiff": 0
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 29,
+        "goalDiff": -1
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 29,
+        "goalDiff": -1
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 30,
+        "goalDiff": -2
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 30,
+        "goalDiff": -2
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 30,
+        "goalDiff": -6
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 31,
+        "goalDiff": -6
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 33,
+        "goalDiff": -7
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 33,
+        "goalDiff": -7
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 36,
+        "goalDiff": -6
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 38,
+        "goalDiff": -10
+      },
+      {
+        "wins": 12,
+        "points": 45,
+        "goals": 40,
+        "goalDiff": -10
+      }
+    ]
+  },
+  {
+    "name": "AFC Bournemouth",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 4,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 6,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 8,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 9,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 10,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 10,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 11,
+        "goalDiff": -6
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -10
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -12
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -13
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -13
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 14,
+        "goalDiff": -13
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 17,
+        "goalDiff": -13
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 18,
+        "goalDiff": -12
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 20,
+        "goalDiff": -11
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 22,
+        "goalDiff": -10
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 22,
+        "goalDiff": -12
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 22,
+        "goalDiff": -12
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 23,
+        "goalDiff": -14
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 26,
+        "goalDiff": -11
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 27,
+        "goalDiff": -11
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 29,
+        "goalDiff": -10
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 29,
+        "goalDiff": -12
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 30,
+        "goalDiff": -14
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 30,
+        "goalDiff": -14
+      },
+      {
+        "wins": 8,
+        "points": 32,
+        "goals": 32,
+        "goalDiff": -12
+      },
+      {
+        "wins": 9,
+        "points": 35,
+        "goals": 35,
+        "goalDiff": -10
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": -9
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": -12
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": -12
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": -16
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 40,
+        "goalDiff": -15
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 41,
+        "goalDiff": -16
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 42,
+        "goalDiff": -19
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 43,
+        "goalDiff": -20
+      },
+      {
+        "wins": 11,
+        "points": 42,
+        "goals": 44,
+        "goalDiff": -20
+      },
+      {
+        "wins": 11,
+        "points": 42,
+        "goals": 45,
+        "goalDiff": -22
+      }
+    ]
+  },
+  {
+    "name": "Aston Villa FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 1,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 1,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 4,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 4,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 6,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 6,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 8,
+        "goalDiff": -4
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 8,
+        "goalDiff": -5
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 8,
+        "goalDiff": -5
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 8,
+        "goalDiff": -7
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 9,
+        "goalDiff": -8
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 10,
+        "goalDiff": -10
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 10,
+        "goalDiff": -10
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 10,
+        "goalDiff": -10
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 10,
+        "goalDiff": -14
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 12,
+        "goalDiff": -15
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 13,
+        "goalDiff": -15
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 13,
+        "goalDiff": -17
+      },
+      {
+        "wins": 1,
+        "points": 7,
+        "goals": 14,
+        "goalDiff": -17
+      },
+      {
+        "wins": 1,
+        "points": 8,
+        "goals": 15,
+        "goalDiff": -19
+      },
+      {
+        "wins": 1,
+        "points": 8,
+        "goals": 16,
+        "goalDiff": -21
+      },
+      {
+        "wins": 2,
+        "points": 11,
+        "goals": 17,
+        "goalDiff": -20
+      },
+      {
+        "wins": 2,
+        "points": 12,
+        "goals": 18,
+        "goalDiff": -20
+      },
+      {
+        "wins": 2,
+        "points": 13,
+        "goals": 18,
+        "goalDiff": -20
+      },
+      {
+        "wins": 2,
+        "points": 13,
+        "goals": 18,
+        "goalDiff": -22
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 20,
+        "goalDiff": -20
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 20,
+        "goalDiff": -26
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 20,
+        "goalDiff": -26
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -29
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -33
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -35
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -36
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -36
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 22,
+        "goalDiff": -40
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 23,
+        "goalDiff": -41
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 23,
+        "goalDiff": -42
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 25,
+        "goalDiff": -44
+      },
+      {
+        "wins": 3,
+        "points": 16,
+        "goals": 27,
+        "goalDiff": -45
+      },
+      {
+        "wins": 3,
+        "points": 17,
+        "goals": 27,
+        "goalDiff": -45
+      },
+      {
+        "wins": 3,
+        "points": 17,
+        "goals": 27,
+        "goalDiff": -49
+      }
+    ]
+  },
+  {
+    "name": "Leicester City FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 4,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 6,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 7,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 13,
+        "goalDiff": 4
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 15,
+        "goalDiff": 1
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 17,
+        "goalDiff": 2
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 17,
+        "goalDiff": 2
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 19,
+        "goalDiff": 2
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 20,
+        "goalDiff": 3
+      },
+      {
+        "wins": 6,
+        "points": 22,
+        "goals": 23,
+        "goalDiff": 4
+      },
+      {
+        "wins": 7,
+        "points": 25,
+        "goals": 25,
+        "goalDiff": 5
+      },
+      {
+        "wins": 7,
+        "points": 25,
+        "goals": 25,
+        "goalDiff": 5
+      },
+      {
+        "wins": 8,
+        "points": 28,
+        "goals": 28,
+        "goalDiff": 8
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 29,
+        "goalDiff": 8
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 32,
+        "goalDiff": 11
+      },
+      {
+        "wins": 10,
+        "points": 35,
+        "goals": 34,
+        "goalDiff": 12
+      },
+      {
+        "wins": 11,
+        "points": 38,
+        "goals": 37,
+        "goalDiff": 13
+      },
+      {
+        "wins": 11,
+        "points": 39,
+        "goals": 37,
+        "goalDiff": 12
+      },
+      {
+        "wins": 11,
+        "points": 40,
+        "goals": 37,
+        "goalDiff": 12
+      },
+      {
+        "wins": 12,
+        "points": 43,
+        "goals": 38,
+        "goalDiff": 13
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 39,
+        "goalDiff": 13
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 42,
+        "goalDiff": 16
+      },
+      {
+        "wins": 14,
+        "points": 50,
+        "goals": 44,
+        "goalDiff": 18
+      },
+      {
+        "wins": 15,
+        "points": 53,
+        "goals": 47,
+        "goalDiff": 20
+      },
+      {
+        "wins": 15,
+        "points": 53,
+        "goals": 48,
+        "goalDiff": 19
+      },
+      {
+        "wins": 15,
+        "points": 53,
+        "goals": 48,
+        "goalDiff": 19
+      },
+      {
+        "wins": 16,
+        "points": 57,
+        "goals": 51,
+        "goalDiff": 20
+      },
+      {
+        "wins": 17,
+        "points": 60,
+        "goals": 52,
+        "goalDiff": 21
+      },
+      {
+        "wins": 18,
+        "points": 63,
+        "goals": 53,
+        "goalDiff": 22
+      },
+      {
+        "wins": 19,
+        "points": 66,
+        "goals": 54,
+        "goalDiff": 23
+      },
+      {
+        "wins": 19,
+        "points": 66,
+        "goals": 54,
+        "goalDiff": 23
+      },
+      {
+        "wins": 20,
+        "points": 69,
+        "goals": 55,
+        "goalDiff": 24
+      },
+      {
+        "wins": 21,
+        "points": 72,
+        "goals": 57,
+        "goalDiff": 26
+      },
+      {
+        "wins": 21,
+        "points": 73,
+        "goals": 59,
+        "goalDiff": 26
+      },
+      {
+        "wins": 22,
+        "points": 76,
+        "goals": 63,
+        "goalDiff": 30
+      },
+      {
+        "wins": 22,
+        "points": 77,
+        "goals": 64,
+        "goalDiff": 30
+      },
+      {
+        "wins": 23,
+        "points": 80,
+        "goals": 67,
+        "goalDiff": 32
+      },
+      {
+        "wins": 23,
+        "points": 81,
+        "goals": 68,
+        "goalDiff": 32
+      }
+    ]
+  },
+  {
+    "name": "Sunderland AFC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 2,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 3,
+        "goalDiff": -4
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 4,
+        "goalDiff": -4
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 6,
+        "goalDiff": -4
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 6,
+        "goalDiff": -4
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 6,
+        "goalDiff": -5
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 6,
+        "goalDiff": -7
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 6,
+        "goalDiff": -10
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 8,
+        "goalDiff": -10
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 8,
+        "goalDiff": -10
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 8,
+        "goalDiff": -11
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 11,
+        "goalDiff": -8
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 13,
+        "goalDiff": -12
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 13,
+        "goalDiff": -13
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 13,
+        "goalDiff": -13
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 14,
+        "goalDiff": -12
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 16,
+        "goalDiff": -10
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 17,
+        "goalDiff": -12
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 17,
+        "goalDiff": -13
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 18,
+        "goalDiff": -15
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 19,
+        "goalDiff": -19
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 22,
+        "goalDiff": -17
+      },
+      {
+        "wins": 5,
+        "points": 18,
+        "goals": 26,
+        "goalDiff": -15
+      },
+      {
+        "wins": 5,
+        "points": 18,
+        "goals": 27,
+        "goalDiff": -18
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 28,
+        "goalDiff": -18
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 28,
+        "goalDiff": -19
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 30,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 32,
+        "goalDiff": -18
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 32,
+        "goalDiff": -18
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 34,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 35,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 35,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 36,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 36,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 36,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 36,
+        "goalDiff": -21
+      },
+      {
+        "wins": 7,
+        "points": 30,
+        "goals": 39,
+        "goalDiff": -18
+      },
+      {
+        "wins": 7,
+        "points": 31,
+        "goals": 39,
+        "goalDiff": -18
+      },
+      {
+        "wins": 7,
+        "points": 32,
+        "goals": 40,
+        "goalDiff": -18
+      },
+      {
+        "wins": 9,
+        "points": 38,
+        "goals": 46,
+        "goalDiff": -14
+      },
+      {
+        "wins": 9,
+        "points": 39,
+        "goals": 48,
+        "goalDiff": -14
+      }
+    ]
+  },
+  {
+    "name": "Norwich City FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 1,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 4,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 8,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 9,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 11,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 12,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 12,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 14,
+        "goalDiff": -6
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 14,
+        "goalDiff": -7
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 15,
+        "goalDiff": -8
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 16,
+        "goalDiff": -7
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 16,
+        "goalDiff": -7
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 16,
+        "goalDiff": -8
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 17,
+        "goalDiff": -8
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 17,
+        "goalDiff": -10
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 18,
+        "goalDiff": -10
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 20,
+        "goalDiff": -9
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 22,
+        "goalDiff": -10
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 23,
+        "goalDiff": -9
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 24,
+        "goalDiff": -11
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 24,
+        "goalDiff": -14
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 28,
+        "goalDiff": -15
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 28,
+        "goalDiff": -18
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 28,
+        "goalDiff": -20
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 30,
+        "goalDiff": -20
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 30,
+        "goalDiff": -20
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 31,
+        "goalDiff": -22
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 31,
+        "goalDiff": -23
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 31,
+        "goalDiff": -23
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 32,
+        "goalDiff": -22
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 32,
+        "goalDiff": -22
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 35,
+        "goalDiff": -21
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 35,
+        "goalDiff": -22
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 35,
+        "goalDiff": -25
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 35,
+        "goalDiff": -25
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 35,
+        "goalDiff": -26
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 39,
+        "goalDiff": -25
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 39,
+        "goalDiff": -28
+      }
+    ]
+  },
+  {
+    "name": "Crystal Palace FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 3,
+        "goalDiff": 2
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 4,
+        "goalDiff": 1
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 6,
+        "goalDiff": 2
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 2
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 1
+      },
+      {
+        "wins": 4,
+        "points": 12,
+        "goals": 9,
+        "goalDiff": 2
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 11,
+        "goalDiff": 4
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 12,
+        "goalDiff": 2
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 12,
+        "goalDiff": 1
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 12,
+        "goalDiff": 1
+      },
+      {
+        "wins": 6,
+        "points": 19,
+        "goals": 14,
+        "goalDiff": 2
+      },
+      {
+        "wins": 6,
+        "points": 19,
+        "goals": 14,
+        "goalDiff": 2
+      },
+      {
+        "wins": 6,
+        "points": 19,
+        "goals": 14,
+        "goalDiff": 1
+      },
+      {
+        "wins": 7,
+        "points": 22,
+        "goals": 19,
+        "goalDiff": 5
+      },
+      {
+        "wins": 7,
+        "points": 23,
+        "goals": 20,
+        "goalDiff": 5
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 21,
+        "goalDiff": 6
+      },
+      {
+        "wins": 9,
+        "points": 29,
+        "goals": 23,
+        "goalDiff": 7
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 23,
+        "goalDiff": 7
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 23,
+        "goalDiff": 4
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 23,
+        "goalDiff": 3
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 23,
+        "goalDiff": -1
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 24,
+        "goalDiff": -3
+      },
+      {
+        "wins": 9,
+        "points": 31,
+        "goals": 25,
+        "goalDiff": -4
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 26,
+        "goalDiff": -4
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 27,
+        "goalDiff": -5
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 27,
+        "goalDiff": -5
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 31,
+        "goalDiff": -6
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 32,
+        "goalDiff": -7
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 32,
+        "goalDiff": -7
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 32,
+        "goalDiff": -8
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 32,
+        "goalDiff": -8
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 34,
+        "goalDiff": -8
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 35,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 36,
+        "goalDiff": -9
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 36,
+        "goalDiff": -9
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 36,
+        "goalDiff": -10
+      },
+      {
+        "wins": 11,
+        "points": 42,
+        "goals": 38,
+        "goalDiff": -9
+      },
+      {
+        "wins": 11,
+        "points": 42,
+        "goals": 39,
+        "goalDiff": -12
+      }
+    ]
+  },
+  {
+    "name": "Chelsea FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 5,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 6,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 6,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 7,
+        "goalDiff": -5
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 9,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 11,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -5
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 12,
+        "goalDiff": -5
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 14,
+        "goalDiff": -3
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 15,
+        "goalDiff": -4
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 16,
+        "goalDiff": -6
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 16,
+        "goalDiff": -7
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 16,
+        "goalDiff": -7
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 17,
+        "goalDiff": -6
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 17,
+        "goalDiff": -6
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 17,
+        "goalDiff": -7
+      },
+      {
+        "wins": 4,
+        "points": 15,
+        "goals": 18,
+        "goalDiff": -8
+      },
+      {
+        "wins": 5,
+        "points": 18,
+        "goals": 21,
+        "goalDiff": -6
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 23,
+        "goalDiff": -6
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 26,
+        "goalDiff": -3
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 28,
+        "goalDiff": -3
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 31,
+        "goalDiff": -3
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 32,
+        "goalDiff": -2
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 32,
+        "goalDiff": -2
+      },
+      {
+        "wins": 7,
+        "points": 30,
+        "goals": 33,
+        "goalDiff": -2
+      },
+      {
+        "wins": 8,
+        "points": 33,
+        "goals": 38,
+        "goalDiff": 2
+      },
+      {
+        "wins": 8,
+        "points": 33,
+        "goals": 38,
+        "goalDiff": 2
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 42,
+        "goalDiff": 4
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 43,
+        "goalDiff": 4
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 43,
+        "goalDiff": 4
+      },
+      {
+        "wins": 10,
+        "points": 41,
+        "goals": 45,
+        "goalDiff": 4
+      },
+      {
+        "wins": 10,
+        "points": 41,
+        "goals": 45,
+        "goalDiff": 4
+      },
+      {
+        "wins": 11,
+        "points": 44,
+        "goals": 49,
+        "goalDiff": 8
+      },
+      {
+        "wins": 11,
+        "points": 44,
+        "goals": 49,
+        "goalDiff": 7
+      },
+      {
+        "wins": 11,
+        "points": 44,
+        "goals": 49,
+        "goalDiff": 4
+      },
+      {
+        "wins": 12,
+        "points": 47,
+        "goals": 53,
+        "goalDiff": 7
+      },
+      {
+        "wins": 12,
+        "points": 48,
+        "goals": 55,
+        "goalDiff": 7
+      },
+      {
+        "wins": 12,
+        "points": 49,
+        "goals": 58,
+        "goalDiff": 6
+      },
+      {
+        "wins": 12,
+        "points": 50,
+        "goals": 59,
+        "goalDiff": 6
+      }
+    ]
+  },
+  {
+    "name": "Swansea City FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 4,
+        "goalDiff": 2
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 5,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 7,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 7,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 7,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 7,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 10,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 10,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 10,
+        "goalDiff": -1
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": 0
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": -3
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": -4
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 12,
+        "goalDiff": -4
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 14,
+        "goalDiff": -4
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 14,
+        "goalDiff": -5
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 14,
+        "goalDiff": -8
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 15,
+        "goalDiff": -9
+      },
+      {
+        "wins": 3,
+        "points": 15,
+        "goals": 15,
+        "goalDiff": -9
+      },
+      {
+        "wins": 4,
+        "points": 19,
+        "goals": 16,
+        "goalDiff": -8
+      },
+      {
+        "wins": 4,
+        "points": 19,
+        "goals": 17,
+        "goalDiff": -9
+      },
+      {
+        "wins": 4,
+        "points": 19,
+        "goals": 19,
+        "goalDiff": -11
+      },
+      {
+        "wins": 5,
+        "points": 22,
+        "goals": 20,
+        "goalDiff": -10
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 22,
+        "goalDiff": -9
+      },
+      {
+        "wins": 6,
+        "points": 26,
+        "goals": 23,
+        "goalDiff": -9
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 24,
+        "goalDiff": -9
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 24,
+        "goalDiff": -10
+      },
+      {
+        "wins": 6,
+        "points": 27,
+        "goals": 24,
+        "goalDiff": -10
+      },
+      {
+        "wins": 7,
+        "points": 30,
+        "goals": 27,
+        "goalDiff": -10
+      },
+      {
+        "wins": 8,
+        "points": 33,
+        "goals": 28,
+        "goalDiff": -9
+      },
+      {
+        "wins": 8,
+        "points": 33,
+        "goals": 30,
+        "goalDiff": -10
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 31,
+        "goalDiff": -9
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 31,
+        "goalDiff": -9
+      },
+      {
+        "wins": 9,
+        "points": 37,
+        "goals": 33,
+        "goalDiff": -9
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 34,
+        "goalDiff": -8
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 34,
+        "goalDiff": -11
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 34,
+        "goalDiff": -15
+      },
+      {
+        "wins": 11,
+        "points": 43,
+        "goals": 37,
+        "goalDiff": -13
+      },
+      {
+        "wins": 12,
+        "points": 46,
+        "goals": 41,
+        "goalDiff": -10
+      },
+      {
+        "wins": 12,
+        "points": 47,
+        "goals": 42,
+        "goalDiff": -10
+      }
+    ]
+  },
+  {
+    "name": "Arsenal FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -2
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 3,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 3,
+        "goalDiff": 0
+      },
+      {
+        "wins": 3,
+        "points": 10,
+        "goals": 5,
+        "goalDiff": 2
+      },
+      {
+        "wins": 3,
+        "points": 10,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 4,
+        "points": 13,
+        "goals": 10,
+        "goalDiff": 3
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 13,
+        "goalDiff": 6
+      },
+      {
+        "wins": 5,
+        "points": 16,
+        "goals": 13,
+        "goalDiff": 6
+      },
+      {
+        "wins": 6,
+        "points": 19,
+        "goals": 16,
+        "goalDiff": 9
+      },
+      {
+        "wins": 7,
+        "points": 22,
+        "goals": 18,
+        "goalDiff": 10
+      },
+      {
+        "wins": 8,
+        "points": 25,
+        "goals": 21,
+        "goalDiff": 13
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 22,
+        "goalDiff": 13
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 22,
+        "goalDiff": 13
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 23,
+        "goalDiff": 12
+      },
+      {
+        "wins": 8,
+        "points": 27,
+        "goals": 24,
+        "goalDiff": 12
+      },
+      {
+        "wins": 9,
+        "points": 30,
+        "goals": 27,
+        "goalDiff": 14
+      },
+      {
+        "wins": 10,
+        "points": 33,
+        "goals": 29,
+        "goalDiff": 16
+      },
+      {
+        "wins": 11,
+        "points": 36,
+        "goals": 31,
+        "goalDiff": 17
+      },
+      {
+        "wins": 12,
+        "points": 39,
+        "goals": 33,
+        "goalDiff": 15
+      },
+      {
+        "wins": 13,
+        "points": 42,
+        "goals": 34,
+        "goalDiff": 16
+      },
+      {
+        "wins": 13,
+        "points": 43,
+        "goals": 37,
+        "goalDiff": 16
+      },
+      {
+        "wins": 13,
+        "points": 44,
+        "goals": 37,
+        "goalDiff": 16
+      },
+      {
+        "wins": 13,
+        "points": 44,
+        "goals": 37,
+        "goalDiff": 15
+      },
+      {
+        "wins": 13,
+        "points": 45,
+        "goals": 37,
+        "goalDiff": 15
+      },
+      {
+        "wins": 14,
+        "points": 48,
+        "goals": 39,
+        "goalDiff": 17
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 41,
+        "goalDiff": 18
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 41,
+        "goalDiff": 18
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 44,
+        "goalDiff": 16
+      },
+      {
+        "wins": 15,
+        "points": 52,
+        "goals": 46,
+        "goalDiff": 16
+      },
+      {
+        "wins": 15,
+        "points": 52,
+        "goals": 46,
+        "goalDiff": 16
+      },
+      {
+        "wins": 16,
+        "points": 55,
+        "goals": 48,
+        "goalDiff": 18
+      },
+      {
+        "wins": 16,
+        "points": 55,
+        "goals": 48,
+        "goalDiff": 18
+      },
+      {
+        "wins": 17,
+        "points": 58,
+        "goals": 52,
+        "goalDiff": 22
+      },
+      {
+        "wins": 17,
+        "points": 59,
+        "goals": 55,
+        "goalDiff": 22
+      },
+      {
+        "wins": 18,
+        "points": 63,
+        "goals": 58,
+        "goalDiff": 24
+      },
+      {
+        "wins": 18,
+        "points": 64,
+        "goals": 58,
+        "goalDiff": 24
+      },
+      {
+        "wins": 19,
+        "points": 67,
+        "goals": 59,
+        "goalDiff": 25
+      },
+      {
+        "wins": 19,
+        "points": 68,
+        "goals": 61,
+        "goalDiff": 25
+      },
+      {
+        "wins": 20,
+        "points": 71,
+        "goals": 65,
+        "goalDiff": 29
+      }
+    ]
+  },
+  {
+    "name": "West Ham United FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 3,
+        "goalDiff": 1
+      },
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 6,
+        "goalDiff": 0
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 9,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 9,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 11,
+        "goalDiff": 5
+      },
+      {
+        "wins": 4,
+        "points": 12,
+        "goals": 13,
+        "goalDiff": 6
+      },
+      {
+        "wins": 4,
+        "points": 13,
+        "goals": 15,
+        "goalDiff": 6
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 17,
+        "goalDiff": 6
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 17,
+        "goalDiff": 6
+      },
+      {
+        "wins": 5,
+        "points": 17,
+        "goals": 20,
+        "goalDiff": 8
+      },
+      {
+        "wins": 6,
+        "points": 20,
+        "goals": 22,
+        "goalDiff": 9
+      },
+      {
+        "wins": 6,
+        "points": 20,
+        "goals": 22,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 21,
+        "goals": 23,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 21,
+        "goals": 23,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 21,
+        "goals": 24,
+        "goalDiff": 4
+      },
+      {
+        "wins": 6,
+        "points": 22,
+        "goals": 25,
+        "goalDiff": 4
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 25,
+        "goalDiff": 4
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 25,
+        "goalDiff": 4
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 25,
+        "goalDiff": 4
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 28,
+        "goalDiff": 5
+      },
+      {
+        "wins": 8,
+        "points": 32,
+        "goals": 30,
+        "goalDiff": 7
+      },
+      {
+        "wins": 9,
+        "points": 35,
+        "goals": 33,
+        "goalDiff": 9
+      },
+      {
+        "wins": 9,
+        "points": 35,
+        "goals": 34,
+        "goalDiff": 8
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 36,
+        "goalDiff": 8
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 38,
+        "goalDiff": 10
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 38,
+        "goalDiff": 9
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 40,
+        "goalDiff": 9
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 40,
+        "goalDiff": 9
+      },
+      {
+        "wins": 12,
+        "points": 46,
+        "goals": 42,
+        "goalDiff": 11
+      },
+      {
+        "wins": 13,
+        "points": 49,
+        "goals": 45,
+        "goalDiff": 12
+      },
+      {
+        "wins": 13,
+        "points": 49,
+        "goals": 45,
+        "goalDiff": 12
+      },
+      {
+        "wins": 13,
+        "points": 50,
+        "goals": 47,
+        "goalDiff": 12
+      },
+      {
+        "wins": 13,
+        "points": 50,
+        "goals": 47,
+        "goalDiff": 12
+      },
+      {
+        "wins": 13,
+        "points": 51,
+        "goals": 49,
+        "goalDiff": 12
+      },
+      {
+        "wins": 13,
+        "points": 52,
+        "goals": 52,
+        "goalDiff": 12
+      },
+      {
+        "wins": 14,
+        "points": 56,
+        "goals": 57,
+        "goalDiff": 14
+      },
+      {
+        "wins": 14,
+        "points": 56,
+        "goals": 57,
+        "goalDiff": 14
+      },
+      {
+        "wins": 15,
+        "points": 59,
+        "goals": 60,
+        "goalDiff": 17
+      },
+      {
+        "wins": 16,
+        "points": 62,
+        "goals": 64,
+        "goalDiff": 15
+      },
+      {
+        "wins": 16,
+        "points": 62,
+        "goals": 65,
+        "goalDiff": 14
+      }
+    ]
+  },
+  {
+    "name": "Newcastle United FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": -3
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": -3
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": -5
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -6
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 5,
+        "goalDiff": -6
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 6,
+        "goalDiff": -11
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 6,
+        "goalDiff": -11
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 12,
+        "goalDiff": -7
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 12,
+        "goalDiff": -10
+      },
+      {
+        "wins": 1,
+        "points": 7,
+        "goals": 12,
+        "goalDiff": -10
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 13,
+        "goalDiff": -9
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 13,
+        "goalDiff": -9
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 13,
+        "goalDiff": -12
+      },
+      {
+        "wins": 2,
+        "points": 10,
+        "goals": 14,
+        "goalDiff": -16
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 16,
+        "goalDiff": -14
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 18,
+        "goalDiff": -13
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 19,
+        "goalDiff": -13
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 19,
+        "goalDiff": -15
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 19,
+        "goalDiff": -16
+      },
+      {
+        "wins": 4,
+        "points": 18,
+        "goals": 22,
+        "goalDiff": -16
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 24,
+        "goalDiff": -15
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 25,
+        "goalDiff": -16
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 25,
+        "goalDiff": -19
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 26,
+        "goalDiff": -18
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 27,
+        "goalDiff": -22
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 27,
+        "goalDiff": -22
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 27,
+        "goalDiff": -23
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 28,
+        "goalDiff": -25
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 28,
+        "goalDiff": -26
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 29,
+        "goalDiff": -26
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 29,
+        "goalDiff": -26
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 31,
+        "goalDiff": -27
+      },
+      {
+        "wins": 6,
+        "points": 25,
+        "goals": 32,
+        "goalDiff": -29
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 36,
+        "goalDiff": -26
+      },
+      {
+        "wins": 7,
+        "points": 30,
+        "goals": 38,
+        "goalDiff": -26
+      },
+      {
+        "wins": 8,
+        "points": 33,
+        "goals": 39,
+        "goalDiff": -25
+      },
+      {
+        "wins": 8,
+        "points": 34,
+        "goals": 39,
+        "goalDiff": -25
+      },
+      {
+        "wins": 9,
+        "points": 37,
+        "goals": 44,
+        "goalDiff": -21
+      }
+    ]
+  },
+  {
+    "name": "Southampton FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": 0
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -3
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 2,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 5,
+        "goalDiff": 0
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 7,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 10,
+        "goalDiff": 1
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 13,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 13,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 15,
+        "goalDiff": 3
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 16,
+        "goalDiff": 3
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 18,
+        "goalDiff": 5
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 19,
+        "goalDiff": 6
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 19,
+        "goalDiff": 6
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 19,
+        "goalDiff": 5
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 20,
+        "goalDiff": 3
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 21,
+        "goalDiff": 3
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 21,
+        "goalDiff": 2
+      },
+      {
+        "wins": 5,
+        "points": 21,
+        "goals": 21,
+        "goalDiff": 0
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 26,
+        "goalDiff": 3
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 26,
+        "goalDiff": 2
+      },
+      {
+        "wins": 7,
+        "points": 27,
+        "goals": 28,
+        "goalDiff": 4
+      },
+      {
+        "wins": 8,
+        "points": 30,
+        "goals": 31,
+        "goalDiff": 7
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 32,
+        "goalDiff": 8
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 32,
+        "goalDiff": 8
+      },
+      {
+        "wins": 10,
+        "points": 37,
+        "goals": 33,
+        "goalDiff": 9
+      },
+      {
+        "wins": 11,
+        "points": 40,
+        "goals": 34,
+        "goalDiff": 10
+      },
+      {
+        "wins": 11,
+        "points": 40,
+        "goals": 34,
+        "goalDiff": 10
+      },
+      {
+        "wins": 11,
+        "points": 40,
+        "goals": 35,
+        "goalDiff": 7
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 36,
+        "goalDiff": 7
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 38,
+        "goalDiff": 8
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 41,
+        "goalDiff": 9
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 41,
+        "goalDiff": 9
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 41,
+        "goalDiff": 8
+      },
+      {
+        "wins": 14,
+        "points": 50,
+        "goals": 44,
+        "goalDiff": 10
+      },
+      {
+        "wins": 14,
+        "points": 51,
+        "goals": 45,
+        "goalDiff": 10
+      },
+      {
+        "wins": 15,
+        "points": 54,
+        "goals": 49,
+        "goalDiff": 12
+      },
+      {
+        "wins": 16,
+        "points": 57,
+        "goals": 53,
+        "goalDiff": 14
+      },
+      {
+        "wins": 17,
+        "points": 60,
+        "goals": 55,
+        "goalDiff": 15
+      },
+      {
+        "wins": 18,
+        "points": 63,
+        "goals": 59,
+        "goalDiff": 18
+      }
+    ]
+  },
+  {
+    "name": "Stoke City FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -1
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -2
+      },
+      {
+        "wins": 0,
+        "points": 2,
+        "goals": 3,
+        "goalDiff": -4
+      },
+      {
+        "wins": 0,
+        "points": 3,
+        "goals": 5,
+        "goalDiff": -4
+      },
+      {
+        "wins": 1,
+        "points": 6,
+        "goals": 7,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 9,
+        "goalDiff": -1
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 9,
+        "goalDiff": -3
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 9,
+        "goalDiff": -3
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 10,
+        "goalDiff": -2
+      },
+      {
+        "wins": 4,
+        "points": 16,
+        "goals": 10,
+        "goalDiff": -2
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 11,
+        "goalDiff": -1
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 11,
+        "goalDiff": -3
+      },
+      {
+        "wins": 6,
+        "points": 22,
+        "goals": 13,
+        "goalDiff": -1
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 13,
+        "goalDiff": -1
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 14,
+        "goalDiff": -2
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 20,
+        "goalDiff": 1
+      },
+      {
+        "wins": 8,
+        "points": 29,
+        "goals": 21,
+        "goalDiff": 0
+      },
+      {
+        "wins": 9,
+        "points": 32,
+        "goals": 24,
+        "goalDiff": 2
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 24,
+        "goalDiff": 2
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 24,
+        "goalDiff": -1
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 24,
+        "goalDiff": -4
+      },
+      {
+        "wins": 9,
+        "points": 33,
+        "goals": 24,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 36,
+        "goals": 27,
+        "goalDiff": -5
+      },
+      {
+        "wins": 10,
+        "points": 36,
+        "goals": 27,
+        "goalDiff": -5
+      },
+      {
+        "wins": 12,
+        "points": 42,
+        "goals": 30,
+        "goalDiff": -3
+      },
+      {
+        "wins": 12,
+        "points": 43,
+        "goals": 31,
+        "goalDiff": -3
+      },
+      {
+        "wins": 12,
+        "points": 43,
+        "goals": 32,
+        "goalDiff": -4
+      },
+      {
+        "wins": 13,
+        "points": 46,
+        "goals": 34,
+        "goalDiff": -3
+      },
+      {
+        "wins": 13,
+        "points": 46,
+        "goals": 34,
+        "goalDiff": -3
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 36,
+        "goalDiff": -3
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": -6
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": -10
+      },
+      {
+        "wins": 13,
+        "points": 47,
+        "goals": 37,
+        "goalDiff": -14
+      },
+      {
+        "wins": 13,
+        "points": 48,
+        "goals": 38,
+        "goalDiff": -14
+      },
+      {
+        "wins": 13,
+        "points": 48,
+        "goals": 39,
+        "goalDiff": -15
+      },
+      {
+        "wins": 14,
+        "points": 51,
+        "goals": 41,
+        "goalDiff": -14
+      }
+    ]
+  },
+  {
+    "name": "Liverpool FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 1,
+        "goalDiff": 1
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 2,
+        "goalDiff": 2
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 2,
+        "goalDiff": -1
+      },
+      {
+        "wins": 2,
+        "points": 7,
+        "goals": 3,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 4,
+        "goalDiff": -3
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 7,
+        "goalDiff": -2
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 3,
+        "points": 12,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 3,
+        "points": 13,
+        "goals": 8,
+        "goalDiff": -2
+      },
+      {
+        "wins": 3,
+        "points": 14,
+        "goals": 9,
+        "goalDiff": -2
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 12,
+        "goalDiff": 0
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 13,
+        "goalDiff": -1
+      },
+      {
+        "wins": 4,
+        "points": 17,
+        "goals": 13,
+        "goalDiff": -1
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 17,
+        "goalDiff": 2
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 18,
+        "goalDiff": 3
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 18,
+        "goalDiff": 1
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 20,
+        "goalDiff": 1
+      },
+      {
+        "wins": 6,
+        "points": 24,
+        "goals": 20,
+        "goalDiff": -2
+      },
+      {
+        "wins": 8,
+        "points": 30,
+        "goals": 22,
+        "goalDiff": 0
+      },
+      {
+        "wins": 8,
+        "points": 30,
+        "goals": 22,
+        "goalDiff": -2
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 25,
+        "goalDiff": -2
+      },
+      {
+        "wins": 8,
+        "points": 31,
+        "goals": 25,
+        "goalDiff": -3
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 30,
+        "goalDiff": -2
+      },
+      {
+        "wins": 9,
+        "points": 34,
+        "goals": 30,
+        "goalDiff": -4
+      },
+      {
+        "wins": 9,
+        "points": 35,
+        "goals": 32,
+        "goalDiff": -4
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": 2
+      },
+      {
+        "wins": 10,
+        "points": 38,
+        "goals": 38,
+        "goalDiff": 2
+      },
+      {
+        "wins": 11,
+        "points": 41,
+        "goals": 41,
+        "goalDiff": 5
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 43,
+        "goalDiff": 6
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 43,
+        "goalDiff": 6
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 45,
+        "goalDiff": 5
+      },
+      {
+        "wins": 12,
+        "points": 44,
+        "goals": 45,
+        "goalDiff": 5
+      },
+      {
+        "wins": 12,
+        "points": 45,
+        "goals": 46,
+        "goalDiff": 5
+      },
+      {
+        "wins": 13,
+        "points": 48,
+        "goals": 50,
+        "goalDiff": 8
+      },
+      {
+        "wins": 15,
+        "points": 54,
+        "goals": 56,
+        "goalDiff": 13
+      },
+      {
+        "wins": 15,
+        "points": 55,
+        "goals": 58,
+        "goalDiff": 13
+      },
+      {
+        "wins": 15,
+        "points": 55,
+        "goals": 59,
+        "goalDiff": 11
+      },
+      {
+        "wins": 16,
+        "points": 59,
+        "goals": 62,
+        "goalDiff": 13
+      },
+      {
+        "wins": 16,
+        "points": 60,
+        "goals": 63,
+        "goalDiff": 13
+      }
+    ]
+  },
+  {
+    "name": "West Bromwich Albion FC",
+    "stats": [
+      {
+        "wins": 0,
+        "points": 0,
+        "goals": 0,
+        "goalDiff": -3
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 0,
+        "goalDiff": -3
+      },
+      {
+        "wins": 0,
+        "points": 1,
+        "goals": 2,
+        "goalDiff": -4
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 3,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 4,
+        "goals": 3,
+        "goalDiff": -3
+      },
+      {
+        "wins": 1,
+        "points": 5,
+        "goals": 3,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 4,
+        "goalDiff": -2
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 6,
+        "goalDiff": -3
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 6,
+        "goalDiff": -5
+      },
+      {
+        "wins": 2,
+        "points": 8,
+        "goals": 6,
+        "goalDiff": -5
+      },
+      {
+        "wins": 3,
+        "points": 11,
+        "goals": 7,
+        "goalDiff": -4
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 8,
+        "goalDiff": -3
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 10,
+        "goalDiff": -4
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 10,
+        "goalDiff": -6
+      },
+      {
+        "wins": 4,
+        "points": 14,
+        "goals": 10,
+        "goalDiff": -6
+      },
+      {
+        "wins": 5,
+        "points": 17,
+        "goals": 12,
+        "goalDiff": -5
+      },
+      {
+        "wins": 5,
+        "points": 18,
+        "goals": 13,
+        "goalDiff": -5
+      },
+      {
+        "wins": 5,
+        "points": 19,
+        "goals": 14,
+        "goalDiff": -5
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 16,
+        "goalDiff": -5
+      },
+      {
+        "wins": 5,
+        "points": 20,
+        "goals": 17,
+        "goalDiff": -6
+      },
+      {
+        "wins": 6,
+        "points": 23,
+        "goals": 18,
+        "goalDiff": -6
+      },
+      {
+        "wins": 7,
+        "points": 26,
+        "goals": 20,
+        "goalDiff": -5
+      },
+      {
+        "wins": 7,
+        "points": 27,
+        "goals": 22,
+        "goalDiff": -5
+      },
+      {
+        "wins": 7,
+        "points": 27,
+        "goals": 22,
+        "goalDiff": -8
+      },
+      {
+        "wins": 7,
+        "points": 28,
+        "goals": 22,
+        "goalDiff": -8
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 23,
+        "goalDiff": -8
+      },
+      {
+        "wins": 7,
+        "points": 29,
+        "goals": 23,
+        "goalDiff": -9
+      },
+      {
+        "wins": 8,
+        "points": 32,
+        "goals": 24,
+        "goalDiff": -8
+      },
+      {
+        "wins": 8,
+        "points": 32,
+        "goals": 24,
+        "goalDiff": -8
+      },
+      {
+        "wins": 9,
+        "points": 36,
+        "goals": 29,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 30,
+        "goalDiff": -6
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 30,
+        "goalDiff": -6
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 30,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 39,
+        "goals": 30,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 30,
+        "goalDiff": -7
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 31,
+        "goalDiff": -8
+      },
+      {
+        "wins": 10,
+        "points": 40,
+        "goals": 31,
+        "goalDiff": -11
+      },
+      {
+        "wins": 10,
+        "points": 41,
+        "goals": 32,
+        "goalDiff": -11
+      },
+      {
+        "wins": 10,
+        "points": 41,
+        "goals": 32,
+        "goalDiff": -14
+      },
+      {
+        "wins": 10,
+        "points": 42,
+        "goals": 33,
+        "goalDiff": -14
+      },
+      {
+        "wins": 10,
+        "points": 43,
+        "goals": 34,
+        "goalDiff": -14
+      }
+    ]
+  },
+  {
+    "name": "Manchester City FC",
+    "stats": [
+      {
+        "wins": 1,
+        "points": 3,
+        "goals": 3,
+        "goalDiff": 3
+      },
+      {
+        "wins": 2,
+        "points": 6,
+        "goals": 6,
+        "goalDiff": 6
+      },
+      {
+        "wins": 3,
+        "points": 9,
+        "goals": 8,
+        "goalDiff": 8
+      },
+      {
+        "wins": 4,
+        "points": 12,
+        "goals": 10,
+        "goalDiff": 10
+      },
+      {
+        "wins": 4,
+        "points": 12,
+        "goals": 10,
+        "goalDiff": 10
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 11,
+        "goalDiff": 11
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 12,
+        "goalDiff": 10
+      },
+      {
+        "wins": 5,
+        "points": 15,
+        "goals": 13,
+        "goalDiff": 7
+      },
+      {
+        "wins": 6,
+        "points": 18,
+        "goals": 19,
+        "goalDiff": 12
+      },
+      {
+        "wins": 6,
+        "points": 18,
+        "goals": 19,
+        "goalDiff": 12
+      },
+      {
+        "wins": 7,
+        "points": 21,
+        "goals": 24,
+        "goalDiff": 16
+      },
+      {
+        "wins": 7,
+        "points": 22,
+        "goals": 24,
+        "goalDiff": 16
+      },
+      {
+        "wins": 8,
+        "points": 25,
+        "goals": 26,
+        "goalDiff": 17
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 26,
+        "goalDiff": 17
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 26,
+        "goalDiff": 17
+      },
+      {
+        "wins": 8,
+        "points": 26,
+        "goals": 27,
+        "goalDiff": 14
+      },
+      {
+        "wins": 9,
+        "points": 29,
+        "goals": 30,
+        "goalDiff": 16
+      },
+      {
+        "wins": 9,
+        "points": 29,
+        "goals": 30,
+        "goalDiff": 14
+      },
+      {
+        "wins": 10,
+        "points": 32,
+        "goals": 32,
+        "goalDiff": 15
+      },
+      {
+        "wins": 10,
+        "points": 32,
+        "goals": 33,
+        "goalDiff": 14
+      },
+      {
+        "wins": 11,
+        "points": 36,
+        "goals": 37,
+        "goalDiff": 17
+      },
+      {
+        "wins": 12,
+        "points": 39,
+        "goals": 39,
+        "goalDiff": 18
+      },
+      {
+        "wins": 12,
+        "points": 40,
+        "goals": 39,
+        "goalDiff": 18
+      },
+      {
+        "wins": 13,
+        "points": 43,
+        "goals": 43,
+        "goalDiff": 22
+      },
+      {
+        "wins": 13,
+        "points": 44,
+        "goals": 45,
+        "goalDiff": 22
+      },
+      {
+        "wins": 14,
+        "points": 47,
+        "goals": 46,
+        "goalDiff": 23
+      },
+      {
+        "wins": 14,
+        "points": 47,
+        "goals": 47,
+        "goalDiff": 21
+      },
+      {
+        "wins": 14,
+        "points": 47,
+        "goals": 48,
+        "goalDiff": 20
+      },
+      {
+        "wins": 14,
+        "points": 47,
+        "goals": 48,
+        "goalDiff": 20
+      },
+      {
+        "wins": 14,
+        "points": 47,
+        "goals": 48,
+        "goalDiff": 17
+      },
+      {
+        "wins": 15,
+        "points": 50,
+        "goals": 52,
+        "goalDiff": 21
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 52,
+        "goalDiff": 21
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 52,
+        "goalDiff": 20
+      },
+      {
+        "wins": 15,
+        "points": 51,
+        "goals": 52,
+        "goalDiff": 20
+      },
+      {
+        "wins": 16,
+        "points": 54,
+        "goals": 56,
+        "goalDiff": 24
+      },
+      {
+        "wins": 17,
+        "points": 57,
+        "goals": 58,
+        "goalDiff": 25
+      },
+      {
+        "wins": 18,
+        "points": 61,
+        "goals": 62,
+        "goalDiff": 28
+      },
+      {
+        "wins": 19,
+        "points": 64,
+        "goals": 66,
+        "goalDiff": 32
+      },
+      {
+        "wins": 19,
+        "points": 64,
+        "goals": 68,
+        "goalDiff": 30
+      },
+      {
+        "wins": 19,
+        "points": 65,
+        "goals": 70,
+        "goalDiff": 30
+      },
+      {
+        "wins": 19,
+        "points": 66,
+        "goals": 71,
+        "goalDiff": 30
+      }
+    ]
+  }
+]

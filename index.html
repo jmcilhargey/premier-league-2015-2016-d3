@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Showing Leicester's 2015 Season in d3.js</title>
+	<style>
+
+		body {
+			color: #424242;
+		}
+
+		.title {
+			text-align: center;
+		}
+
+		#graph {
+			height: 500px;
+			margin: 10px;
+		}
+		.dot {
+			stroke: none;
+		}
+		.axis path {
+			fill: none;
+			stroke: #424242;
+		}
+		.zero path {
+			stroke-dasharray: 5, 10;
+			stroke: #9E9E9E;
+		}
+		.label {
+			fill: #424242;
+		}
+		.week {
+			font-size: 60px;
+			font-weight: 600;
+		}
+		.tooltip {
+			position: absolute;
+			width: 75px;
+			height: 25px;
+			border-radius: 5px;
+			padding: 5px;
+			background-color: transparent;
+			color: black;
+			text-align: center;
+			opacity: 0;
+			pointer-events: none;
+			font: 12px sans-serif;
+		}
+		.overlay {
+			fill: none;
+			pointer-events: all;
+		}
+	</style>
+</head>
+
+<body>
+	
+	<h1 class="title">Leicester FC - Path to Victory</h1>
+
+	<div id="graph">
+
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.1/d3.min.js"></script>
+
+	<script type="text/javascript">
+
+		function yPos(d) {
+			return d.goalDiff;
+		}
+		function xPos(d) {
+			return d.points;
+		}
+		function radius(d) {
+			return d.goals;
+		}
+		function position(dot) {
+			dot.transition()
+				.duration(100)
+				.attr("cx", function(d) { return xScale(xPos(d)) })
+				.attr("cy", function(d) { return yScale(yPos(d)) })
+				.attr("r", function(d) { return radScale(radius(d)) })
+		}
+		function order(a, b) {
+			return radius(a) - radius(b);
+		}
+		function abbreviate(name) {
+			var arr = name.split(" ");
+			return arr.reduce(function(abbr, word) {
+				return abbr + word.slice(0, 3) + " ";
+			}, "")
+		}
+
+		var margin = {
+			left: 25,
+			right: 10,
+			top: 10,
+			bottom: 20
+		};
+		var width = 800 - margin.right;
+		var height = 500 - margin.top - margin.bottom;
+
+		var graph = d3.select("#graph").append("svg")
+			.attr("width", width + margin.left + margin.right)
+			.attr("height", height + margin.bottom + margin.top)
+			.append("g")
+			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+		var xScale = d3.scaleLinear().domain([0, 85]).range([0, width]);
+		var yScale = d3.scaleLinear().domain([-60, 60]).range([height, 0]);
+		var radScale = d3.scaleLinear().domain([0, 75]).range([1, 30]);
+
+		var xAxis = d3.axisBottom(xScale).tickArguments([15, d3.format("0")]);
+		var yAxis = d3.axisLeft(yScale);
+
+		var colors = d3.scaleOrdinal(d3.schemeCategory20);
+
+		graph.append("g")
+			.attr("class", "axis")
+			.attr("transform", "translate(0," + height + ")")
+			.call(xAxis);
+
+		graph.append("g")
+			.attr("class", "zero axis")
+        	.attr("transform", "translate(0," + yScale(0) + ")")
+        	.call(xAxis.tickArguments([0, d3.format("")]).tickSizeOuter([0]));
+
+		graph.append("g")
+			.attr("class", "axis")
+			.call(yAxis);
+
+		graph.append("text")
+			.attr("class", "label")
+			.attr("text-anchor", "end")
+			.attr("x", width)
+			.attr("y", height - 10)
+			.text("Points");
+
+		graph.append("text")
+			.attr("class", "label")
+			.attr("text-anchor", "end")
+			.attr("y", 0)
+			.attr("dy", "1.5em")
+			.attr("transform", "rotate(-90)")
+			.text("Goal Differential");
+
+		var label = graph.append("text")
+			.attr("class", "label week")
+			.attr("text-anchor", "end")
+			.attr("y", height - 10)
+			.attr("x", 300)
+			.text(1);
+
+		graph.append("text")
+			.attr("class", "label")
+			.attr("text-anchor", "end")
+			.attr("y", height - 10)
+			.attr("x", 340)
+			.text("Week");
+
+		d3.json("./epl-results-by-week.json", function(data) {
+
+			function mouseover(d) {
+				tooltip.html("<span>" + d.name + "</span>")
+				.style("opacity", "1")
+
+			}
+			function mouseout() {
+				tooltip.style("opacity", "0");
+			}
+			function mousemove() {
+				tooltip.style("left", (d3.event.pageX - 40) + "px")
+      				.style("top", (d3.event.pageY - 20) + "px");
+			}
+			function color(d, i) {
+				return colors(i);
+			}
+			function interpolateData(week) {
+				return data.map(function(d) {
+					return {
+						name: d.name,
+						wins: d.stats[week].wins,
+						points: d.stats[week].points,
+						goals: d.stats[week].goals,
+						goalDiff: d.stats[week].goalDiff
+					}
+				})
+			}
+			function displayWeek() {
+				var weeks = d3.interpolateRound(0, 40);
+
+				return function(t) {
+
+					dot.data(interpolateData(weeks(t)))
+					.call(position)
+					.sort(order);
+
+					label.text(weeks(t) + 1);
+				}
+			}
+			function enableInteraction() {
+
+				var weekScale = d3.scaleLinear()
+					.domain([0, 40])
+					.range([rect.x, rect.x + rect.width])
+					.clamp(true)
+
+				graph.interrupt();
+
+				overlay.on("mousemove", scrollWeek);
+
+				function scrollWeek() {
+
+					var week = Math.round(weekScale.invert(d3.mouse(this)[0]));
+
+					dot.data(interpolateData(week))
+					.call(position)
+					.sort(order);
+
+					label.text(week + 1);
+				}
+
+			}
+			var rect = { x: 240, y: 410, width: 100, height: 50 };
+
+			var overlay = graph.append("rect")
+				.attr("class", "overlay")
+				.attr("x", rect.x)
+				.attr("y", rect.y)
+				.attr("width", rect.width)
+				.attr("height", rect.height)
+				.on("mouseover", enableInteraction);
+
+			var tooltip = d3.select("body")
+				.append("div")
+				.attr("class", "tooltip")
+				.style("opacity", "0");
+
+			var dot = graph.append("g")
+				.attr("class", "dot")
+				.selectAll(".dot")
+				.data(interpolateData(0))
+				.enter()
+				.append("circle")
+				.attr("fill", color)
+				.call(position)
+
+				.on("mouseover", mouseover)
+				.on("mouseout", mouseout)
+				.on("mousemove", mousemove);
+
+			var trans = graph.transition()
+				.duration(40000)
+				.ease(d3.easeLinear)
+				.tween("week", displayWeek)
+		});
+	</script>
+
+</body>
+
+</html>
